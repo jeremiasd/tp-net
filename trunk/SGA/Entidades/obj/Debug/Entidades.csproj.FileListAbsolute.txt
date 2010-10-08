@@ -1,0 +1,10 @@
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Entidades\bin\Debug\Academia.Entidades.dll
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Entidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Entidades\obj\Debug\Academia.Entidades.dll
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Entidades\obj\Debug\Academia.Entidades.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Entidades\bin\Debug\Academia.Entidades.dll
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Entidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Entidades\obj\Debug\Academia.Entidades.dll
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Entidades\obj\Debug\Academia.Entidades.pdb

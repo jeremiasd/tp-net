@@ -1,0 +1,18 @@
+﻿<Window x:Class="Academia.Escritorio.Login"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Portal de Login SGA" Height="228.114" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid Height="266.133">
+        <Label Height="28" Margin="27,8.004,21,0" Name="lblBienvenido" VerticalAlignment="Top">Bienvenido al Sistema de Gestión Academica</Label>
+        <Label Height="28" Margin="35,23.345,21,0" Name="lblBienvenido2" VerticalAlignment="Top">Por favor digite su información de ingreso</Label>
+        <TextBox Margin="137,58.029,21,0" Name="txtUsuario" Height="24" VerticalAlignment="Top" />
+        <PasswordBox Margin="137,91.379,21,0" Name="txtClave" Height="24.679" VerticalAlignment="Top" />
+        <Label Margin="27,58.029,130.412,0" Name="lblUsuario" Height="28.55" VerticalAlignment="Top">Nombre de Usuario</Label>
+        <Label Margin="69.368,91.379,88.044,0" Name="lblClave" Height="29.465" VerticalAlignment="Top">Contraseña</Label>
+        <Button Background="AliceBlue" Margin="98.049,129.398,104.719,111.067" Name="btnIngresar">Ingresar</Button>
+        <Button Background="AliceBlue" Margin="0,129.398,21,111.389" Name="btnSalir" HorizontalAlignment="Right" Width="75.232" Click="btnSalir_Click">Salir</Button>
+        <Label Height="28" Margin="0,0,0,77" Name="label1" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="120.588">
+            <Hyperlink Name="lblOlvideContraseña" Click="lblOlvideContraseña_Click">Olvidé mi contraseña</Hyperlink>
+        </Label>
+    </Grid>
+</Window>

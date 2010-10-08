@@ -1,0 +1,10 @@
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\Academia.Configuracion.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\Academia.Configuracion.pdb

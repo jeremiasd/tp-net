@@ -1,0 +1,5 @@
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Utilidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Utilidades\obj\Debug\Utilidades.pdb
