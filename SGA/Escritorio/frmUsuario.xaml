@@ -1,0 +1,18 @@
+﻿<Window x:Class="Escritorio.frmUsuario"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="frmUsuario" Height="650" Width="1250" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid Name="frmPrincipal">
+        <Menu Height="22" Name="menu1" VerticalAlignment="Top">
+            <MenuItem Header="_Archivo">
+                <MenuItem Name="archivoIngresarMenuItem"  Header="_Ingresar" Click="archivoIngresarMenuItem_Click"/>
+                <MenuItem Name="archivoSalirMenuItem"  Header="_Salir" Click="archivoSalirMenuItem_Click"/>
+            </MenuItem>
+        </Menu>
+        <TabControl Margin="0,24,0,35.725" Name="tabsPrincipal" TabStripPlacement="Left" Background="AliceBlue">
+            <TabItem Name="tabAdmin" Header="Administrador" Height="50" FontSize="16" Background="AliceBlue"/>
+            <TabItem Name="tabAlumnos" Header="Alumnos" Height="50" FontSize="16" Background="AliceBlue"/>
+            <TabItem Name="tabProfesores" Header="Profesores" Height="50" FontSize="16" Background="AliceBlue"/>
+        </TabControl>
+    </Grid>
+</Window>

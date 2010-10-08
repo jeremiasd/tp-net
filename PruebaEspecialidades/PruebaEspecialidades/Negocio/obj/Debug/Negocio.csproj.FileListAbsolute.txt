@@ -1,0 +1,9 @@
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Negocio.dll
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\Negocio.dll
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Academia.Entidades.dll
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Academia.Entidades.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Academia.Datos.dll
+C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Academia.Datos.pdb

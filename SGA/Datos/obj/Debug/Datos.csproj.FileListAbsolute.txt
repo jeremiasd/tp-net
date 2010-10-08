@@ -1,0 +1,14 @@
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Datos\bin\Debug\Academia.Datos.dll
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Datos\bin\Debug\Academia.Datos.pdb
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Datos\bin\Debug\Academia.Entidades.dll
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Datos\bin\Debug\Academia.Entidades.pdb
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Datos\obj\Debug\Academia.Datos.dll
+C:\Users\EriK\Desktop\TP 2 .NET\SGA\Datos\obj\Debug\Academia.Datos.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Datos\bin\Debug\Academia.Datos.dll
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Datos\bin\Debug\Academia.Datos.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Datos\bin\Debug\Academia.Entidades.dll
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Datos\bin\Debug\Academia.Entidades.pdb
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Datos\obj\Debug\Academia.Datos.dll
+C:\Users\Fede\Desktop\TP 2 .NET\SGA\Datos\obj\Debug\Academia.Datos.pdb
