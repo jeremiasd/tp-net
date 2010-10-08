@@ -5,3 +5,10 @@ C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Datos\
 C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Datos\bin\Debug\Academia.Entidades.pdb
 C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Datos\obj\Debug\Academia.Datos.dll
 C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Datos\obj\Debug\Academia.Datos.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Datos\bin\Debug\Academia.Datos.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Datos\bin\Debug\Academia.Datos.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Datos\bin\Debug\Academia.Entidades.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Datos\bin\Debug\Academia.Entidades.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Datos\obj\Debug\Academia.Datos.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Datos\obj\Debug\Academia.Datos.pdb

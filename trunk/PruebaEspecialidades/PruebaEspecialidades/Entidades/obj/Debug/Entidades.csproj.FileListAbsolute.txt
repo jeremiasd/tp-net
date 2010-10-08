@@ -3,3 +3,8 @@ C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Entida
 C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Entidades\bin\Debug\Academia.Entidades.pdb
 C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Entidades\obj\Debug\Academia.Entidades.dll
 C:\Users\Fede\Desktop\TP 2 .NET\PruebaEspecialidades\PruebaEspecialidades\Entidades\obj\Debug\Academia.Entidades.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Entidades\bin\Debug\Academia.Entidades.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Entidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Entidades\obj\Debug\Academia.Entidades.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Entidades\obj\Debug\Academia.Entidades.pdb
