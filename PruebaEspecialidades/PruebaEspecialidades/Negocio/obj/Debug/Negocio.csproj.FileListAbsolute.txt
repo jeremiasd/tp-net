@@ -16,3 +16,12 @@ C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspec
 C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\Negocio.dll
 C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\Negocio.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Negocio.dll
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Negocio.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Academia.Datos.dll
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Academia.Entidades.dll
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Academia.Datos.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\bin\Debug\Academia.Entidades.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\Negocio.dll
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\Negocio\obj\Debug\Negocio.pdb

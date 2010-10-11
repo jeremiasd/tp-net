@@ -36,3 +36,22 @@ C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspec
 C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\Academia.Escritorio.Properties.Resources.resources
 C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\Academia.Escritorio.exe
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\Academia.Escritorio.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\bin\Debug\Academia.Escritorio.exe
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\bin\Debug\Academia.Escritorio.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\bin\Debug\Negocio.dll
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\bin\Debug\Academia.Entidades.dll
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\bin\Debug\Academia.Datos.dll
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\bin\Debug\Negocio.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\bin\Debug\Academia.Datos.pdb
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\grdEspecialidades.baml
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\grdEspecialidades.g.cs
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\App.g.cs
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\Academia.Escritorio_MarkupCompile.cache
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\Academia.Escritorio.g.resources
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\Academia.Escritorio.Properties.Resources.resources
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EriK\Desktop\workspace\tp-net\PruebaEspecialidades\PruebaEspecialidades\PruebaEspecialidades\obj\x86\Debug\GenerateResource.write.1.tlog
