@@ -13,6 +13,7 @@ namespace Academia.Negocio
         public VistaEspecialidades(Entidades.Especialidades listaEsp)
         {
             this.ListaEspecialidades = listaEsp;
+            this.PermiteEditar = false; 
         }
     }
 }

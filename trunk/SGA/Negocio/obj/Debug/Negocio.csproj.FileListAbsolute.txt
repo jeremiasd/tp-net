@@ -16,3 +16,12 @@ C:\Users\Fede\Desktop\TP 2 .NET\SGA\Negocio\bin\Debug\Academia.Negocio.dll
 C:\Users\Fede\Desktop\TP 2 .NET\SGA\Negocio\bin\Debug\Academia.Negocio.pdb
 C:\Users\Fede\Desktop\TP 2 .NET\SGA\Negocio\obj\Debug\Academia.Negocio.dll
 C:\Users\Fede\Desktop\TP 2 .NET\SGA\Negocio\obj\Debug\Academia.Negocio.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\bin\Debug\Academia.Negocio.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\bin\Debug\Academia.Negocio.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\bin\Debug\Academia.Datos.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\bin\Debug\Academia.Entidades.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\bin\Debug\Academia.Datos.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\bin\Debug\Academia.Entidades.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\obj\Debug\Academia.Negocio.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Negocio\obj\Debug\Academia.Negocio.pdb
