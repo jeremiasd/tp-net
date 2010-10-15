@@ -15,5 +15,10 @@ namespace Academia.Negocio
 
             this.VistaEspecialidades = new Negocio.VistaEspecialidades(dEspecialidades.getAll());
         }
+
+        public void habilitarEdicion()
+        {
+            this.VistaEspecialidades.PermiteEditar = true;
+        }
     }
 }

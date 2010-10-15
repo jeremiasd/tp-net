@@ -8,3 +8,8 @@ C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\bin\Debug\Academia.Configuracion.
 C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\Academia.Configuracion.dll
 C:\Users\Fede\Desktop\TP 2 .NET\SGA\Utilidades\obj\Debug\Academia.Configuracion.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Utilidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\Users\Fede\Desktop\Tortoise Workspace\tp-net\SGA\Utilidades\obj\Debug\Academia.Configuracion.pdb

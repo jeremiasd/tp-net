@@ -25,5 +25,15 @@ namespace Academia.Escritorio
             oPresentadorEspecialidades = new Academia.Negocio.PresentadorEspecialidades();
             this.DataContext = oPresentadorEspecialidades.VistaEspecialidades;
         }
+
+        private void btnSalir_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void grdEsp_GotFocus(object sender, RoutedEventArgs e)
+        {
+            oPresentadorEspecialidades.habilitarEdicion();
+        }
     }
 }
